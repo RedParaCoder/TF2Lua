@@ -3,8 +3,7 @@
 Collection of personal TF2 lua files
 
 ##Red's Lua
-```ansi
-[2;31m___________________________________________________________________
+___________________________________________________________________
 |    ____          _ _     _                
 |   |  _ \ ___  __| ( )___| |   _   _  __ _ 
 |   | |_) / _ \/ _` |// __| |  | | | |/ _` |
@@ -30,8 +29,7 @@ Collection of personal TF2 lua files
 |  Stuck respawn      | infinite respawn timer, on death become spectator
 |  console command "rl_info" displays this text
 |
-|___________________________________________________________________[0m
-```
+|___________________________________________________________________
 
 - Obduscated because I'm a meanie!
 
