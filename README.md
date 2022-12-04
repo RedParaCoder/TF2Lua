@@ -15,22 +15,31 @@ ___________________________________________________________________
 |        By: RedParaCoder
 |
 |  RedTap:
-|  (RT) RedTap        |    turn on damage log for Double Tap, logs DT damage in local chat
-|  (RT) Indicator     |    indicator on left middle of screen, shows normal and DT damage
+|  (RT) RedTap  	|	turn on damage log for Double Tap, logs DT damage in local chat and console
+|
+|  Bind indicator options:
+|  Binds enabled	|	turn on or off binds indicator
+|  Dash Indicator 	|	turn on or off dash/dt indicator
+|  binds Aim bot	|	add or remove aim bot visualy
+|  binds Trigger	|	add or remove trigger visualy
+|  binds Crits		|	add or remove crits visualy
+|  binds DoubleTap	|	add or remove aimbot visualy
+|  binds Recharge	|	add or remove cecharge visualy
+|  binds Fake Lag	|	add or remove fake lag visualy
 |
 |  Party chat functions:
-|  Party vote         |    allow party members to type "F1 or F2" to vote for you.
-|  Party queue        |    allow party members to queue casual for you.
-|  
+|  Party vote		|	allow party members to type "F1 or F2" to vote for you.
+|  Party queue		|	allow party members to queue casual for you.
+|
 |  Party queue commands:
 |  "!q" to queue casual
 |  "!s" to stop queue
 |  "!r {region}" to select region
 |  "!r" to display regions
 |
-|  Other commands:
-|  Stuck respawn      | infinite respawn timer, on death become spectator
-|  console command "rl_info" displays this text
+|  Other functions:
+|  Stuck respawn 		| infinite respawn timer, on death become spectator
+|  console command 		| "rl_info" displays this text
 |
 |___________________________________________________________________
 ```
