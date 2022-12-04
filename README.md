@@ -5,6 +5,9 @@
 Collection of personal TF2 lua files
 
 ## Red's Lua
+
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download lua")](https://github.com/RedParaCoder/TF2Lua/raw/main/Red's%20Lua.lua)
+
 ```
 ___________________________________________________________________
 |    ____          _ _     _                
@@ -48,3 +51,4 @@ ___________________________________________________________________
 
 ## Other
 - Chat example
+- Party uber
