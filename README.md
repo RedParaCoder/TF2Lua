@@ -4,8 +4,6 @@
 
 Collection of personal TF2 lua files
 
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/RedParaCoder/TF2Lua/releases/)
-
 ## Red's Lua
 
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download lua")](https://github.com/RedParaCoder/TF2Lua/blob/main/RedsLuaV2.lua)
