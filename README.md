@@ -26,7 +26,6 @@ ___________________________________________________________________
 |   rotate dynamic  |   set angle #1 and #2 for fake/real that will be iterated by updaterate
 |   spin            |   set spin direction for fake/real
 |
-|                   |
 |  RedTap:
 |  (RT) RedTap  	|	turn on damage log for Double Tap, logs DT damage in local chat and console
 |
