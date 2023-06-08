@@ -3,7 +3,7 @@
 local function chat(msg)
     
     local MessageID = msg:GetID() -- message id
-    local MessageDestination = msg:ReadString(256) -- Destination can check for team or all chat by "TF_Chat_Team", or "TF_Chat_All"
+    local MessageDestination = msg:ReadString(256) -- Destination can check for team or all chat by "TF_Chat_Team", or "TF_Chat_All"
     local MessageSender = msg:ReadString(256) -- Senders name displayed in chat
     local MessageText = msg:ReadString(256) -- what the message is
     
