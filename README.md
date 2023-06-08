@@ -6,7 +6,7 @@ Collection of personal TF2 lua files
 
 ## Red's Lua
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download lua")](https://github.com/RedParaCoder/TF2Lua/blob/main/Red'sLuaV2.2.lua)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download lua")](https://github.com/RedParaCoder/TF2Lua/blob/main/Red'sLuaV2.27.lua)
 
 ```
 ___________________________________________________________________
@@ -40,14 +40,19 @@ ___________________________________________________________________
 |   binds Fake Lag	|	add or remove fake lag visualy
 |
 |  Party chat functions:
-|   Party vote		|	allow party members to type "F1 or F2" to vote for you.
-|   Party queue		|	allow party members to queue casual for you.
+|   Party vote		|	allow party members to make a vote response, and kick players for you.
+|   Party queue		|	allow party members to queue casual for you, and select regions.
 |
 |  Party queue commands:
 |   "!q" to queue casual
 |   "!s" to stop queue
 |   "!r {region}" to select region
 |   "!r" to display regions
+|  Party vote commands:
+|   "F1" responds with sending option1 to latest call kick.
+|   "F2" responds with sending option2 to latest call kick.
+|   "!kick {name}" calls a kick by finding user id of players with name.
+|   "!kickid {stmid}" calls a kick by finding user id of players with steam id.
 |
 |  Other functions:
 |  Stuck respawn 		| infinite respawn timer, on death become "spectator"
