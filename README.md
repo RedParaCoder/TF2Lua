@@ -61,7 +61,7 @@ ___________________________________________________________________
 |___________________________________________________________________
 ```
 
-- Obduscated because I'm a meanie!
+- Minified for lower file size and because I use bad language in my code!
 
 ## Other
 - Chat example
